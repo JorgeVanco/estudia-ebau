@@ -1,0 +1,27 @@
+school_study_api/venv/
+school_study_api/__pycache__
+school_study_api/.env
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+school_study/node_modules
+school_study/.pnp
+school_study/.pnp.js
+
+# testing
+school_study/coverage
+
+# production
+school_study/build
+
+# misc
+school_study.DS_Store
+school_study.env.local
+school_study.env.development.local
+school_study.env.test.local
+school_study.env.production.local
+
+school_studynpm-debug.log*
+school_studyyarn-debug.log*
+school_studyyarn-error.log*
